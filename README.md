@@ -4,8 +4,9 @@ python libraries:pyang
 
 If you are using this tool then you probably want to install the following python libraries(not required for the tool)
 
-ydk
-ydk-models-cisco-ios-xe
+1)ydk
+
+2)ydk-models-cisco-ios-xe
 
 To install the libraries above follow those steps(TESTED ON MAC OS High Sierra):
 

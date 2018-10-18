@@ -21,7 +21,7 @@ pip install ydk-models-cisco-ios-xe
 ```
 
 Usage
-python xml_parser.py <yang_model_file.yang> <variable to search>
+python yang_parser.py <yang_model_file.yang> <variable to search>
 
 TODO:
 1)FILL README about libssh

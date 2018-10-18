@@ -24,6 +24,7 @@ Usage
 python xml_parser.py <yang_model_file.yang> <variable to search>
 
 TODO:
-FILL README about libssh
-Search for files not only in the root directory
+1)FILL README about libssh
+2)Search for files not only in the root directory
+3)Add comments to the code
 
